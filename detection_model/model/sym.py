@@ -20,7 +20,7 @@ ayurvedic_cures = {
         
     ],
      
-    'GERD': [
+    'Gastric': [
         '1. Amla (Indian gooseberry): Consume amla juice to reduce acidity.',
         '2. Ginger tea: Prepare ginger tea to soothe the digestive system.',
         '3. Licorice (mulethi): Chew on licorice root or consume licorice tea.'
